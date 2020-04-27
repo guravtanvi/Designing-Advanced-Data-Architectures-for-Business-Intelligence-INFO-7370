@@ -1,6 +1,7 @@
 # Designing-Advanced-Data-Architectures-for-Business-Intelligence-INFO-7370
-
-## Course Description
+# ------------------------------------------------------------------------------------------------------------------
+#### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
+#### Instructor: Rick Sherman
 
 This repository explores the data and technical architectures needed to enable enterprises to design, develop and deploy business intelligence (BI) and analytical applications that create value from the deluge of data enterprises have access to.
 
@@ -22,6 +23,5 @@ The course includes lectures on concepts and best practices along with hands-on 
 Azure SQL, Google Big Table, Microsoft SQL Server, Oracle, Hortonworks sandbox (Hadoop, Hive, etc.) and Talend Big Data sandbox.
 
 
-#### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
-#### Instructor: Rick Sherman
+
 
