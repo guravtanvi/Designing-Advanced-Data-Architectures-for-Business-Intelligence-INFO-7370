@@ -1,5 +1,5 @@
 # Designing-Advanced-Data-Architectures-for-Business-Intelligence-INFO-7370
-# ------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 #### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
 #### Instructor: Rick Sherman
 
