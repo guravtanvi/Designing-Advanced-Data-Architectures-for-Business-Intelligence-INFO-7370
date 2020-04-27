@@ -23,5 +23,5 @@ Azure SQL, Google Big Table, Microsoft SQL Server, Oracle, Hortonworks sandbox (
 #### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
 
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=583138ed-8d4e-42f7-9558-e5694425095e&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/reportEmbed?reportId=583138ed-8d4e-42f7-9558-e5694425095e&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
