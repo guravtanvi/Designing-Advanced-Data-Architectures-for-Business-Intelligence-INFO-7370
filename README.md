@@ -22,6 +22,6 @@ The course includes lectures on concepts and best practices along with hands-on 
 Azure SQL, Google Big Table, Microsoft SQL Server, Oracle, Hortonworks sandbox (Hadoop, Hive, etc.) and Talend Big Data sandbox.
 
 
-### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
-### Instructor: Rick Sherman
+#### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
+#### Instructor: Rick Sherman
 
