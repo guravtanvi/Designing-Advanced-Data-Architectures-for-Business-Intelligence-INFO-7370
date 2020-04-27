@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course explores the data and technical architectures needed to enable enterprises to design, develop and deploy business intelligence (BI) and analytical applications that create value from the deluge of data enterprises have access to.
+This repository explores the data and technical architectures needed to enable enterprises to design, develop and deploy business intelligence (BI) and analytical applications that create value from the deluge of data enterprises have access to.
 
 ### The key topic areas are:
 • Data architecture
@@ -22,6 +22,6 @@ The course includes lectures on concepts and best practices along with hands-on 
 Azure SQL, Google Big Table, Microsoft SQL Server, Oracle, Hortonworks sandbox (Hadoop, Hive, etc.) and Talend Big Data sandbox.
 
 
-Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
-Instructor: Rick Sherman
+### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
+### Instructor: Rick Sherman
 
