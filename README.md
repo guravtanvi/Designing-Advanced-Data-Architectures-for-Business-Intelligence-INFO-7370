@@ -14,7 +14,7 @@ The course includes lectures on concepts and best practices along with hands-on 
 
 ### Additional software in conjunction with BI and data integration tools: 
 
-Azure SQL, Google Big Table, Microsoft SQL Server, Oracle, Hortonworks sandbox (Hadoop, Hive, etc.) and Talend Big Data sandbox.
+Microsoft SQL Server, Oracle, MySQL, PostgreSQL, Talend Big Data sandbox.
 
 #### Instructor: Rick Sherman
 #### Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
