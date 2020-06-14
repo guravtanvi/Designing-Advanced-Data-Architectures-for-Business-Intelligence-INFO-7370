@@ -5,7 +5,7 @@
  - Data engineering & Data Preparation
  - BI & data analytics design
 
-### This course examines both:
+### This repository examines both:
 
  - Modern Analytical Data Architecture (ADA) approach leveraging relational, columnar, on-line analytical
 processing (OLAP), Hadoop & NoSQL databases.
